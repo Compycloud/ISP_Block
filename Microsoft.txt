@@ -1,2 +1,4 @@
 ## Microsoft Limited
 172.206.99.54/32
+## Microsoft Corporation
+52.103.64.3
