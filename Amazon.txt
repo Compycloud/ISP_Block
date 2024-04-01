@@ -11,3 +11,5 @@
 ## Amazon Data Services Singapore
 52.221.83.120/32
 13.212.91.197/32
+## A100 ROW GmbH
+3.73.8.164/32
