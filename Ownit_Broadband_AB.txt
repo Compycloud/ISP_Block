@@ -1,0 +1,2 @@
+# Telenor Sverige AB
+213.238.249.239/32
