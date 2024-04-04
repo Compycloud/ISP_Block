@@ -1,0 +1,3 @@
+## CHINANET Guangxi province network
+# 116.252.198.77
+116.252.0.0/15
