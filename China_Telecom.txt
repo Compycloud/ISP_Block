@@ -4,3 +4,6 @@
 ## Beilun Hanshenghuagong Co. Ltd.
 # 220.191.169.138
 220.191.160.0/19
+## ChinaNet Jiangsu Province Network
+# 218.92.0.33
+218.92.0.0/16
