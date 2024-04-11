@@ -1,3 +1,6 @@
 ## CHINANET Guangxi province network
 # 116.252.198.77
 116.252.0.0/15
+## Beilun Hanshenghuagong Co. Ltd.
+# 220.191.169.138
+220.191.160.0/19
