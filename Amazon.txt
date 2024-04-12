@@ -16,3 +16,5 @@
 3.73.8.164/32
 ## Amazon Data Services NoVa
 54.146.239.172/32
+## Amazon.com Inc.
+16.171.195.64/32
