@@ -10,3 +10,6 @@
 ## ChinaNet Jiangsu Province Network
 # 218.92.0.33
 218.92.0.0/16
+## ChinaNet Guangdong Province Network
+# 116.30.10.158
+116.16.0.0/12
