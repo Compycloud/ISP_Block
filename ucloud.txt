@@ -1,3 +1,6 @@
 ## Shanghai UCloud Information Technology Company Limited
 # 106.75.36.29
 106.75.0.0/16
+## UCloud Information Technology (HK) Limited
+# 101.36.106.47
+101.36.96.0/19
