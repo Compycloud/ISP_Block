@@ -1,4 +1,6 @@
 ## CHINANET Guangxi province network
+# 59.52.226.190
+59.52.0.0/14
 # 116.252.198.77
 116.252.0.0/15
 ## ChinaNet Jiangsu Province Network 
