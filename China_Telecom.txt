@@ -15,3 +15,6 @@
 ## ChinaNet Guangdong Province Network
 # 116.30.10.158
 116.16.0.0/12
+## ChinaNet Zhejiang Province Network
+# 36.27.173.175
+36.27.128.0/18
