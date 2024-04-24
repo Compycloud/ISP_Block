@@ -26,3 +26,6 @@
 ## ChinaNet Anhui Province Network 
 # 124.112.177.91
 124.112.0.0/15
+## Unicom Liaoning Province Network
+# 42.7.7.237
+42.4.0.0/14
