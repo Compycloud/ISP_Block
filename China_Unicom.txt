@@ -1,3 +1,22 @@
+## China Unicom Shandong province network
+27.192.0.0/11
+39.64.0.0/11
+112.224.0.0/11
+119.176.0.0/12
+## China Unicom Liaoning province network
+113.224.0.0/12
+## China Unicom Henan province network
+115.48.0.0/12
+## China Unicom Heibei Province Network
+110.240.0.0/12
+120.0.0.0/12
+## China Unicom Beijing province network
+111.192.0.0/12
+114.240.0.0/12
+123.112.0.0/12
+175.160.0.0/12
+## No.21 Financial Street, Xicheng District
+220.192.0.0/12
 ## China Unicom Liaoning Province Network
 # 175.174.179.136
 175.160.0.0/12
