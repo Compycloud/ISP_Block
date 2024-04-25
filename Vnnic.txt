@@ -1,3 +1,6 @@
 ## New Vision Trading Co. Ltd
 # 103.3.246.123
 103.3.244.0/22
+## DC Digital Data Hub Company Limited
+# 103.186.101.88
+103.186.100.0/23
