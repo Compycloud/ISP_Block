@@ -31,3 +31,6 @@
 ## Unicom Liaoning Province Network
 # 42.7.7.237
 42.4.0.0/14
+## CHINANET Jilin province network
+# 124.235.239.202
+124.234.0.0/15
