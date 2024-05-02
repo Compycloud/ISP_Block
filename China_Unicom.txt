@@ -36,3 +36,6 @@
 213.86.34.160/27
 ## NET-CH-CHINA-UNICOM
 212.203.99.208/29
+## China Unicom Yunnan Province Network
+# 119.62.184.137
+119.62.0.0/16
