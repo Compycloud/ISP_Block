@@ -1,0 +1,3 @@
+## Cellcom Fixed Line Communication L.P
+# 212.143.78.155
+212.143.0.0/16
