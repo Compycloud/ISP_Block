@@ -1,6 +1,8 @@
 ## Aliyun Computing Co. Ltd
 # 121.40.58.137
 121.40.0.0/14
+# 47.97.68.59
+47.96.0.0/15
 ## Hangzhou Alibaba Advertising Co. Ltd.
 # 59.82.21.98
 59.82.21.0/24
