@@ -3,6 +3,7 @@
 52.4.9.86/32
 54.67.116.40/32
 54.153.68.27/32
+54.183.177.14/32
 ## Amazon Data Services Sweden
 13.48.48.73/32
 ## Amazon Data Services UK
