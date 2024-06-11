@@ -1,0 +1,3 @@
+## Emirates Telecommunications Group Company (Etisalat Group) PJSC
+# 217.165.210.246
+217.165.192.0/19
