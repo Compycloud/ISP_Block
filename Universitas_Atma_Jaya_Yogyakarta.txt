@@ -1,0 +1,4 @@
+## Universitas Atma Jaya Yogyakarta
+# 202.14.92.138
+202.14.92.0/24
+202.14.93.0/24
