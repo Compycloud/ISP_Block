@@ -25,6 +25,9 @@
 ## ChinaNet Zhejiang Province Network
 # 36.27.173.175
 36.27.128.0/18
+## Hostmaster of Beijing Telecom corporation CHINA
+# 36.110.228.254
+36.110.0.0/16
 ## ChinaNet Anhui Province Network 
 # 124.112.177.91
 124.112.0.0/15
