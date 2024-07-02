@@ -3,6 +3,8 @@
 39.64.0.0/11
 112.224.0.0/11
 119.176.0.0/12
+## CNC Group CHINA169 Liaoning Province Network
+61.176.0.0/16
 ## China Unicom Liaoning province network
 113.224.0.0/12
 ## China Unicom Henan province network
