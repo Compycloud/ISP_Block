@@ -41,3 +41,6 @@
 ## CHINANET Jilin province network
 # 124.235.239.202
 124.234.0.0/15
+## Shandong Telecom Corporation
+# 58.56.23.210
+58.56.0.0/16
