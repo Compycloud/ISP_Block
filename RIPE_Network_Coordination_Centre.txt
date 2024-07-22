@@ -1,0 +1,5 @@
+## FreeNet L.L.C-FZ
+## Chang Way Technologies Co. Limited
+## RU-CHANGWAY-20230823
+# 85.209.11.254
+85.209.11.0/24
