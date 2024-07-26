@@ -47,3 +47,6 @@
 ## CHINANET Shanghai province network
 # 58.33.58.37
 58.33.0.0/16
+## Jilin Telecom Corporation
+# 175.30.205.252
+175.30.0.0/16
