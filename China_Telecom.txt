@@ -44,3 +44,6 @@
 ## Shandong Telecom Corporation
 # 58.56.23.210
 58.56.0.0/16
+## CHINANET Shanghai province network
+# 58.33.58.37
+58.33.0.0/16
