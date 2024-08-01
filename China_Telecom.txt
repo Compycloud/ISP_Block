@@ -50,3 +50,6 @@
 ## Jilin Telecom Corporation
 # 175.30.205.252
 175.30.0.0/16
+## ChinaNet Guangdong Province Network
+# 14.18.105.210
+14.16.0.0/12
