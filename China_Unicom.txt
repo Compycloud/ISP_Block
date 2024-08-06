@@ -9,6 +9,8 @@
 113.224.0.0/12
 ## China Unicom Henan province network
 115.48.0.0/12
+# 182.124.123.59
+182.112.0.0/12
 ## China Unicom Heibei Province Network
 110.240.0.0/12
 120.0.0.0/12
