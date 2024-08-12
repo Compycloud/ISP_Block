@@ -1,0 +1,4 @@
+## Optimum (SUDDE)
+## CableVision of Saint Joseph MO
+# 207.192.240.242
+207.192.240.242/32
