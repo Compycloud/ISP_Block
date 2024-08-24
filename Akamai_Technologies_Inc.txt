@@ -1,0 +1,2 @@
+## Akamai Technologies, Inc.
+172.233.146.52/24
