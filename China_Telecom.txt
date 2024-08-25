@@ -35,6 +35,8 @@
 # 61.177.172.160
 61.177.0.0/16
 ## ChinaNet Anhui Province Network 
+# 117.57.112.21
+117.57.0.0/16
 # 124.112.177.91
 124.112.0.0/15
 ## Unicom Liaoning Province Network
