@@ -55,3 +55,6 @@
 ## ChinaNet Gansu Province Network
 # 42.92.120.250
 42.88.0.0/13
+## ChinaNet Fujian Province Network
+# 110.89.122.240
+110.88.0.0/14
