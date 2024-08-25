@@ -10,3 +10,6 @@
 ## Long Van System Solution JSC
 # 103.27.237.130
 103.27.237.0/24
+## Son Thuy Investment Trading and Service Company Limited
+# 103.114.106.2
+103.114.104.0/22
