@@ -52,3 +52,6 @@
 ## Jilin Telecom Corporation
 # 175.30.205.252
 175.30.0.0/16
+## ChinaNet Gansu Province Network
+# 42.92.120.250
+42.88.0.0/13
