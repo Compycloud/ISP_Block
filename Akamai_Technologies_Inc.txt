@@ -1,2 +1,5 @@
 ## Akamai Technologies, Inc.
 172.233.146.52/24
+## Linode LLC
+# 172.235.49.124
+172.232.0.0/13
