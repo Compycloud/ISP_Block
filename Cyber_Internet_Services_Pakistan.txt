@@ -1,0 +1,3 @@
+## Cyber Internet Services Pakistan
+# 124.29.248.14
+124.29.248.0/24
